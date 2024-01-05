@@ -1,0 +1,3 @@
+/Users/alexbetances/CLionProjects/Visitor/cmake-build-debug/CMakeFiles/Visitor.dir
+/Users/alexbetances/CLionProjects/Visitor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexbetances/CLionProjects/Visitor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
